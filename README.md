@@ -6,4 +6,4 @@ Admin Dashboard
 List of Available Users
 ![user_list](https://user-images.githubusercontent.com/48628534/124719833-3c5b0180-df10-11eb-8ade-d2168899862c.PNG)
 User Registration
-images.githubusercontent.com/48628534/124719857-411fb580-df10-11eb-9ef9-f9bf0fa1b0df.PNG)
+![user_creation_page](https://user-images.githubusercontent.com/48628534/124719857-411fb580-df10-11eb-9ef9-f9bf0fa1b0df.PNG)
